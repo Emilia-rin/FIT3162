@@ -394,7 +394,7 @@ with gr.Blocks() as mcs4ui:
                     "Please contact us at:\n"
                     "- **Name:** Jiahui Yin\n"
                     "- **Role:** Quality Assurance\n"
-                    "- **Email:** ..@student.monash.edu")
+                    "- **Email:** jyin0021@student.monash.edu")
         
         gr.Image("user_interface/images/t3.jpeg", width=150, height=200)
         gr.Markdown("### Contact Information\n"
